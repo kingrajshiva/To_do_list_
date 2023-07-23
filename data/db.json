@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "CODING"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "DATA STRUCTURE"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "WEB DEVLOPMENT"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "PROJECT"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "REACT JS"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "HTML"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": " CSS"
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "item": "JAVASCRIPT"
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "item": "JAVA"
+    },
+    {
+      "id": 10,
+      "checked": false,
+      "item": "PHYTHON"
+    }
+  ]
+}
